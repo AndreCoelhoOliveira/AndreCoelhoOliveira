@@ -1,4 +1,4 @@
-## Oi sou André Coelho e estudo programação e tecnologia!
+## Oi sou André Coelho e estudo programação e tecnologias!
 
 <div align="left">
   <a href="https://github.com/AndreCoelhoOliveira">
