@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCoelhoOliveira&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; display: flex;"><br>
 
 <div>
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
